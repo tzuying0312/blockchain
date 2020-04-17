@@ -22,6 +22,7 @@
 
 - [How Does Tangle Work](https://github.com/noneymous/iota-consensus-presentation/blob/master/iota_consensus_v1.1_spanish.md)
 IOTA其實是貨幣，背後骨幹是Tangle，就如同Ethereum是貨幣，後面骨幹是blockchain。小方塊為交易，廣泛的被分為幾種。IOTA發起一筆交易，必須要去驗證之前的兩筆交易(去查別人的帳)，為唯一規則。 
+
     >- 越靠近左邊，ex:A，存在越久，隨者時間的推移，不斷有新的帳本從右側進來。w為新來來的帳，須選前面的兩筆帳(q或s)，把這兩筆帳當作一個起點，去檢查一定深度的帳本。
     >- 可以被稱為fully confirmed是要看這筆交易之後有多少人去認證他，越多越有機會被稱為fully，而非去驗證了誰或驗證幾個。
     >- 要驗證的區塊為random，他會在一個完全沒有被驗證的交易當作選擇入口(ex:w、x、z、y)。
