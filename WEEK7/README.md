@@ -1,4 +1,4 @@
-# WEEK７_ IOTA Part1
+# WEEK7_ IOTA Part1
 ###### tags: `blockchain`
 
 - 幣圈
