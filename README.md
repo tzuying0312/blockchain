@@ -1,3 +1,3 @@
 ## :memo: In Here 
-- [x] Class
 - [x] HW
+- [x] Class
